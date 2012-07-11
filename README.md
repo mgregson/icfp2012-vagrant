@@ -4,6 +4,7 @@ This project hosts a Vagrant template similar to the judge's environment for the
 2012 ICFP programming contest as described
 [here](http://icfpcontest2012.wordpress.com/2012/07/05/judging-environment/).
 
+Find Vagrant [here](http://vagrantup.com/).
 
 Using
 -----
